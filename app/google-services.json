@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014407233305",
+    "project_id": "bookshelf-buddy-8bd4b",
+    "storage_bucket": "bookshelf-buddy-8bd4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014407233305:android:cca4d700701891955e8f88",
+        "android_client_info": {
+          "package_name": "com.example.bookshelf_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEc9na7eZkTrI7R9rRtSXME5a0nX8FajA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
