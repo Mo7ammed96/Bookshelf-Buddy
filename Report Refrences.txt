@@ -1,0 +1,13 @@
+Abequibel, B. (2021, May 20). Prospective Reading Teachers’ digital Reading Habit: a cross-sectional design. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3849855
+
+Atkins, D. L., Ball, T., Graves, T. L., & Mockus, A. (2002). Using version control data to evaluate the impact of software tools: a case study of the Version Editor. IEEE Transactions on Software Engineering, 28(7), 625-637. https://doi.org/10.1109/TSE.2002.1019478
+
+awahdah, Mamoun & Zein, Samer & Musleh, Iman & Salleh, Norsaremah. (2018). Automatic Generation of Android SQLite Database Components. https://doi.org/10.3233/978-1-61499-900-3-3
+
+Khan, M., Mirza, A., Wagan, R., Shahid, Mahwish, & Saleem, Imran. (2020). A Literature Review on Software Testing Techniques for Smartphone Applications. Engineering, Technology & Applied Science Research, 10, 6578-6583. https://doi.org/10.48084/etasr.3844
+
+Merkle, A. C., Ferrell, L. K., Ferrell, O. C., & Hair, J. F. (2022). Evaluating E-Book Effectiveness and the Impact on Student Engagement. Journal of Marketing Education, 44(1), 54-71. https://doi.org/10.1177/02734753211035162
+
+SinghJohal, Amarpreet & Singh, Baljit. (2014). Performance Analysis of Web Services for Android based Devices. International Journal of Computer Applications, 92. https://doi.org/10.5120/16057-5421
+
+Spjeldnæs, K., & Karlsen, F. (2022). How digital devices transform literary reading: The impact of e-books, audiobooks and online life on reading habits. New Media & Society, 0(0). https://doi.org/10.1177/14614448221126168
